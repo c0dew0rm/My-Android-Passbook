@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image"
+    android:orientation="vertical"
+    tools:context=".support" >
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="Prabhat Kumar (13/ICS/031)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0aecdd" />
+
+    
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:text="My Digital Passbook"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#880E4F"
+        android:textSize="36dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:text="Developed By:"
+        android:textColor="#ef0c39"
+        android:textSize="28dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Rahul Kumar (13/ICS/067)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0aecdd"
+ />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:text="Apoorwa Singh (13/ICS/009)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0aecdd"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:text="Arti Kumari (13/ICS/012)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0aecdd"/>
+
+</RelativeLayout>

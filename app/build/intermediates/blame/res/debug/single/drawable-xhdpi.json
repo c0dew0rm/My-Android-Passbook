@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\image.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\listacc.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\listacc.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off_disabled_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\newacc.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\newacc.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on_focused_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\accdel.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\accdel.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off_disabled_focused_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off_focused_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on_disabled_focused_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recent.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\recent.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on_disabled_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on_pressed_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off_pressed_holo_dark.png",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_pressed_holo_dark.png"
+    }
+]

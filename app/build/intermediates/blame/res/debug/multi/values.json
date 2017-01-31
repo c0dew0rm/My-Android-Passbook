@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 53,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 41,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 50,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 50,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 61,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 58,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 35,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 35,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    }
+]

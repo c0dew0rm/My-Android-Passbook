@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action.jpg",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\action.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\transdel.jpg",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\transdel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\header.jpg",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\header.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\supp.jpg",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\supp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\addtrans.jpg",
+        "source": "C:\\Users\\Rahul\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\drawable-xhdpi\\addtrans.jpg"
+    }
+]
